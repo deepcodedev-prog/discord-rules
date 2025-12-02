@@ -192,3 +192,41 @@ Mutual roasting and banter between willing participants is allowed, but with imp
 - (e) Appeals for Tier 4 violations require admin review
 
 **§5.14 Rehabilitation & Record Clearing** — Members with a clean record for 90 consecutive days will have their previous Tier 1 and Tier 2 violations removed from consideration for escalation purposes. Record clearing may be granted at most twice per member lifetime. After the second clearing, no further clearing is possible and the escalation clock never resets again; subsequent violations will always count toward escalation.
+
+---
+
+## Article VI: Rulemaking & Amendments
+
+**§6.1 Scope** — This article governs how rules are added, amended, piloted, or repealed. No change may legalize content prohibited by law or Discord TOS.
+
+**§6.2 Who May Propose** — Any member may submit an idea; it must be sponsored by two (2) Green Card holders or one (1) moderator to proceed.
+
+**§6.3 Stages** — Rule changes follow these stages:
+- (a) Concept Vote: 1–2 paragraph summary; opens a discussion thread.
+- (b) Draft & Comment: 72 hours for wording, edge cases, and alternatives.
+- (c) Ratification Vote: on the finalized text.
+- (d) Grace Period: 7 days before enforcement unless explicitly waived for safety.
+
+**§6.4 Voting Body & Quorum** — Only Green Card holders vote. A quorum of 40% of all Green Card holders and a minimum of 5 total votes are required.
+
+**§6.5 Thresholds** —
+- (a) Article II (Prohibited Content): Add/strengthen requires ≥66% YES; repeal/weakening requires ≥75% YES.
+- (b) Article III (Guidelines/Channel Etiquette): Simple majority (50%+1) YES.
+- (c) Articles IV–VI (Governance/Enforcement/Notes): ≥60% YES.
+- (d) Ties fail. Abstentions don’t count toward YES/NO but do count for quorum.
+
+**§6.6 Illegal/TOS Filter** — Proposals conflicting with law or Discord TOS are rejected immediately by admins without a vote and archived with a brief rationale.
+
+**§6.7 Pilot Rules & Sunset** — Proposers may request a 30‑day pilot. Pilot rules auto‑expire unless renewed with ≥60% YES under §6.5(b/c).
+
+**§6.8 Cooling‑Off** — Failed proposals may not be re‑submitted for 30 days. Substantively identical drafts within this window may be removed.
+
+**§6.9 Repeal** — Any existing rule may be repealed using the same thresholds that would have been required to adopt/amend it (see §6.5). Repealed text is archived.
+
+**§6.10 Change Log & Announcements** — All adopted changes are summarized in #announcements with method (concept/draft/ratification), vote tallies, and effective date. Links to drafts and discussions must be included.
+
+**§6.11 Language Sync** — English is canonical. French and Arabic translations must be updated within 7 days of ratification. In case of conflict, the English text controls until translations are fixed.
+
+**§6.12 Emergency Suspension** — Admins may temporarily suspend a rule that is causing immediate harm. A server court review must begin within 72 hours to confirm, amend, or restore the rule.
+
+**§6.13 Anti‑Manipulation** — Coordinating brigades, off‑server vote recruitment, or using alts to influence outcomes violates §2.17/§5.9 and may void the vote.
