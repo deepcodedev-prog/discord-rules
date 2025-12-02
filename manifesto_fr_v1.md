@@ -1,4 +1,4 @@
-Remarque : la version anglaise est la version de référence. En cas de divergence ou de nuance dans une traduction, la version anglaise prévaut et sera utilisée comme référence.
+*Prenez du recul avant d'écrire dans ou de rejoindre un canal*
 
 # 🦅 Ce serveur suit les lois américaines sur la liberté d'expression et les CGU de Discord 🦅
 ## 🦅 Les règles ci-dessous sont une adaptation et un rappel de ces lois 🦅
@@ -191,3 +191,41 @@ Les taquineries mutuelles et les plaisanteries entre participants consentants so
 - (e) Les appels pour violations de Niveau 4 nécessitent un examen par un admin
 
 **§5.14 Réhabilitation & Effacement du Dossier** — Les membres avec un dossier vierge pendant 90 jours consécutifs verront leurs violations antérieures de Niveau 1 et Niveau 2 retirées de la considération pour les besoins d'escalade. Un membre ne peut bénéficier de l’effacement qu’au maximum deux fois. Après le deuxième effacement, aucun effacement supplémentaire n’est possible et le compteur d’escalade ne se réinitialise plus : les violations ultérieures compteront toujours pour l’escalade.
+
+---
+
+## Article VI : Élaboration des Règles et Amendements
+
+**§6.1 Portée** — Le présent article régit l’ajout, la modification, l’expérimentation et l’abrogation des règles. Aucun changement ne peut légaliser un contenu interdit par la loi ou par les CGU de Discord.
+
+**§6.2 Qui peut proposer** — Tout membre peut soumettre une idée ; elle doit être parrainée par deux (2) détenteurs de Green Card ou un (1) modérateur pour avancer.
+
+**§6.3 Étapes** — Les changements suivent ces étapes :
+- (a) Vote de concept : résumé en 1–2 paragraphes ; ouverture d’un fil de discussion.
+- (b) Rédaction & commentaires : 72 h pour le texte, cas limites et alternatives.
+- (c) Vote de ratification : sur le texte finalisé.
+- (d) Période de grâce : 7 jours avant application, sauf dispense explicite pour raison de sécurité.
+
+**§6.4 Corps électoral & quorum** — Seuls les détenteurs de Green Card votent. Quorum de 40 % des détenteurs et minimum 5 votes.
+
+**§6.5 Seuils** —
+- (a) Article II (Contenus interdits) : ajout/renforcement ≥66 % OUI ; abrogation/affaiblissement ≥75 % OUI.
+- (b) Article III (Lignes directrices/étiquette) : majorité simple (50 % + 1) OUI.
+- (c) Articles IV–VI (Gouvernance/Exécution/Notes) : ≥60 % OUI.
+- (d) Égalité = échec. Les abstentions ne comptent pas pour OUI/NON mais comptent pour le quorum.
+
+**§6.6 Filtre Légal/CGU** — Les propositions contraires à la loi ou aux CGU de Discord sont rejetées immédiatement par les admins sans vote et archivées avec une brève justification.
+
+**§6.7 Règles pilotes & clause d’extinction** — Possibilité de pilote de 30 jours. Les règles pilotes expirent automatiquement sauf renouvellement avec ≥60 % OUI selon §6.5(b/c).
+
+**§6.8 Période de refroidissement** — Une proposition rejetée ne peut être resoumise avant 30 jours. Les projets substantiellement identiques durant cette période peuvent être retirés.
+
+**§6.9 Abrogation** — Toute règle peut être abrogée en appliquant les mêmes seuils que pour son adoption/modification (voir §6.5). Le texte abrogé est archivé.
+
+**§6.10 Journal des changements & annonces** — Tous les changements adoptés sont résumés dans #announcements avec la méthode (concept/projet/ratification), les résultats de vote et la date d’effet. Liens vers les projets et discussions requis.
+
+**§6.11 Synchronisation des langues** — L’anglais fait foi. Les traductions française et arabe doivent être mises à jour sous 7 jours. En cas de divergence, l’anglais prévaut jusqu’à correction.
+
+**§6.12 Suspension d’urgence** — Les admins peuvent suspendre temporairement une règle causant un préjudice immédiat. Une révision par la cour du serveur doit débuter sous 72 h pour confirmer, amender ou rétablir.
+
+**§6.13 Anti‑manipulation** — La coordination de brigades, le recrutement de votes hors serveur ou l’usage d’alts pour influencer un scrutin viole §2.17/§5.9 et peut invalider le vote.
