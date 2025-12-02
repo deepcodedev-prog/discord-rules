@@ -1,5 +1,4 @@
-*French and Arabic versions are available too*<br><br>
-*Note: The English version of this manifesto is the base/original text. If any translation contains nuances or discrepancies, the English version takes precedence and will be used as the reference.*
+Note: The English version of this manifesto is the base/original text. If any translation contains nuances or discrepancies, the English version takes precedence and will be used as the reference.
 
 # 🦅 This Server Follows U.S. Free Speech Laws and Discord TOS 🦅
 ## 🦅 The rules below are an adaptation of and a reminder about these laws 🦅
